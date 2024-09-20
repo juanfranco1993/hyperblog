@@ -4,6 +4,11 @@ body
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#cabecera
+{
+    background:color(srgb rgb(255, 6, 6) ;
+}
 #container
 {
     width: 70%;
